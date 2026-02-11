@@ -1,7 +1,9 @@
+[README.md](https://github.com/user-attachments/files/25224383/README.md)[Uploadin[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Practica0MSF)
+
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información del estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Vania Daniela Rivera Duran \[C22211720]; l22211720@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -47,4 +49,4 @@ Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo mate
 \[2] M. C. Khoo, Physiological Control Systems Analysis Simulation, and Estimation, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018, Section 4, Page 93.
 
 \[3] N. S. Nise, Control Systems Engineering, 8th ed. Hoboken, New Jersey, USA: John Wiley & Sons, 2020.
-ading README.md…]()
+g README.md…]()
