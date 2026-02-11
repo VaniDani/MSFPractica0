@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/25224383/README.md)[Uploadin[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Practica0MSF)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=VaniDani/MSFPractica0)
 
 # Práctica 0: Modelo del sistema respiratorio
 
