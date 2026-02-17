@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Información del estudiante
+## Información de la estudiante
 Vania Daniela Rivera Duran \[C22211720]; l22211720@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
